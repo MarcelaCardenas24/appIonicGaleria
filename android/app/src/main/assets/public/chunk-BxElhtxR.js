@@ -1,0 +1,1 @@
+import{n as u}from"./chunk-DKqF8VjK.js";import{s as I}from"./main-WPGL4MJD.js";export{I as createGesture};

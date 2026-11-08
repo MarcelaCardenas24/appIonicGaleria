@@ -1,0 +1,7 @@
+{
+  "name": "appIonicGaleria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

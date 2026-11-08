@@ -1,0 +1,18 @@
+
+# Dependencias
+node_modules/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos de compilación
+dist/
+build/
+.angular/
